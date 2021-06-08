@@ -1,0 +1,45 @@
+  body {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../img/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .wrapper { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    align-content: center; 
+  } 
+   
+  .card { 
+    width: 32rem; 
+    background-color: #ebeef8; 
+    border-radius: 5%; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    margin: 6rem 2rem; 
+    box-shadow: 0.5rem 0.5rem 3rem rgba(0, 0, 0, 0.2); 
+  }
+
+  .btnsub {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #F7CA3E;
+  }
+
+  .btnres {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(173, 173, 173);
+    color: black;
+  }
+
+  .form-control {
+    border-color: #F7CA3E;
+  }
