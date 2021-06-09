@@ -20,6 +20,7 @@
         <div class="box">
             <h3>follow us</h3>
             <a href="https://www.unsrat.ac.id/">Universitas Sam Ratulangi</a>
+            <a href="https://fatek.unsrat.ac.id/informatika/" target='_blank'>Teknik Informatika</a>
             <a href="#">instagram</a>
             <a href="#">facebook</a>
         </div>
